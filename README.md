@@ -1,16 +1,26 @@
-## Hi there 👋
+# 👋 Hey there, I'm **Gowthaman** :)
+A recent NUS Engineering grad with a passion for code, algorithms, and all things computer science. Let’s dive into what I’ve been building!  
 
-<!--
-**gowthaman-01/gowthaman-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 Introducing **Pathium**: The Next Generation of Graph Simulations!
+Pathium is more than just a tool - it’s a playground for 500+ students every year to explore and visualize shortest path algorithms.  
 
-Here are some ideas to get you started:
+https://github.com/user-attachments/assets/4a256777-ebca-4541-af68-a747955a8272
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ⚡ **Top Features to Explore**
+1. 🖋 **Customizable Graph Editor**  
+   Shape your graphs your way! Add, move, or tweak nodes and edges effortlessly.  
+
+2. 📊 **Real-Time Performance Metrics**  
+   Watch algorithms battle it out live, with performance stats displayed on the fly.  
+
+3. 🔄 **Multi-Algorithm Showdown**  
+   Seamlessly compare Dijkstra, BFS, DFS, A\* and more - all in one place!
+   
+---
+
+### 📫 **Let’s Connect and Collaborate!**
+- 🌍 [**Portfolio**](https://gowthaman.app) — My projects, passions, and everything in between.  
+- 💼 [**LinkedIn**](https://linkedin.com/in/yourname) — Let’s turn connections into collaborations!  
+- 📄 [**Resume**](https://gowthaman.app/Gowthaman-Aravindan-Resume.pdf) — A deeper dive into my journey.  
+
+Feel free to contribute, share feedback, or just say hello! I’m always excited to chat about technology and new ideas. 
