@@ -20,7 +20,7 @@ https://github.com/user-attachments/assets/4a256777-ebca-4541-af68-a747955a8272
 
 ### 📫 **Let’s Connect and Collaborate!**
 - 🌍 [**Portfolio**](https://gowthaman.app) — My projects, passions, and everything in between.  
-- 💼 [**LinkedIn**](https://linkedin.com/in/yourname) — Let’s turn connections into collaborations!  
+- 💼 [**LinkedIn**](https://linkedin.com/in/gowthaman-aravindan) — Let’s turn connections into collaborations!  
 - 📄 [**Resume**](https://gowthaman.app/Gowthaman-Aravindan-Resume.pdf) — A deeper dive into my journey.  
 
 Feel free to contribute, share feedback, or just say hello! I’m always excited to chat about technology and new ideas. 
