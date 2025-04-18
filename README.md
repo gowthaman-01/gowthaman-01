@@ -4,6 +4,8 @@ A recent NUS Engineering graduate with a passion for all things computer science
 ## 🚀 Introducing **Pathium**: The Next Generation of Graph Simulations!
 Pathium is more than just a tool - it’s a playground used by 500+ students every year to explore and visualize graph algorithms.  
 
+👉 [**Try Pathium**](https://pathium.gowthaman.app/)
+
 https://github.com/user-attachments/assets/4a256777-ebca-4541-af68-a747955a8272
 
 ### ⚡ **Top Features to Explore**
