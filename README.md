@@ -8,7 +8,7 @@ Pathium is more than just a tool - it’s a playground used by 500+ students eve
 
 https://github.com/user-attachments/assets/4a256777-ebca-4541-af68-a747955a8272
 
-### ⚡ **Top Features to Explore**
+### **Top Features to Explore**
 1. **Customizable Graph Editor**  
    Shape your graphs your way! Add, move, or tweak nodes and edges effortlessly.  
 
