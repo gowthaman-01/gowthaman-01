@@ -1,5 +1,5 @@
 # Hey there, I'm **Gowthaman** :)
-A recent NUS Engineering graduate with a passion for all things computer science. Let’s dive into what I’ve been building!  
+A software engineer with a passion for all things computer science. Let’s dive into what I’ve been building!  
 
 ## Introducing **Pathium**: The Next Generation of Graph Simulations!
 Pathium is more than just a tool - it’s a playground used by 500+ students every year to explore and visualize graph algorithms.  
